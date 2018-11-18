@@ -39,18 +39,18 @@
 ## 项目部分截图
 
 * 查找好友或群
-![](http://qiniu.sponges.cn/201811172002_164.png?imageView2/0/w/880/h/680)
-![](http://qiniu.sponges.cn/201811172003_37.png?imageView2/0/w/880/h/680)
+![](http://qiniu.sponges.cn/201811172002_164.png)
+![](http://qiniu.sponges.cn/201811172003_37.png)
 
 * 好友
-![](http://qiniu.sponges.cn/201811172000_349.png?imageView2/0/w/880/h/680)
+![](http://qiniu.sponges.cn/201811172000_349.png)
 
 * 群组
 
-![](http://qiniu.sponges.cn/201811171954_553.png?imageView2/0/w/880/h/680)
-![](http://qiniu.sponges.cn/201811171955_252.png?imageView2/0/w/880/h/680)
-![](http://qiniu.sponges.cn/201811171957_268.png?imageView2/0/w/880/h/680)
-![](http://qiniu.sponges.cn/201811171958_137.png?imageView2/0/w/880/h/680)
+![](http://qiniu.sponges.cn/201811171954_553.png)
+![](http://qiniu.sponges.cn/201811171955_252.png)
+![](http://qiniu.sponges.cn/201811171957_268.png)
+![](http://qiniu.sponges.cn/201811171958_137.png)
 
 
 
